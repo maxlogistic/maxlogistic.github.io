@@ -1,0 +1,45 @@
+.ml-50 {
+    margin-left: 50px;
+}
+
+.h-links ul li i{
+ font-size: 18px;
+ font-weight: 600;
+ color: #d12c03;
+}
+
+.h-links h3{
+    margin: 30px 0 20px!important;
+    font-weight: 600;
+    font-size: 25px;
+    color: #ff440a;
+    text-align: center;
+}   
+
+.h-links h2{
+    font-size: 30px;
+    color: #242424;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: .90px;
+    padding-bottom: 20px;
+} 
+
+.h-links h2::after {
+    content: "";
+    width: 50px;
+    height: 2px;
+    background: #000;
+    display: inline-block;
+    position: relative;
+    margin-left: 10px;
+  }
+
+.h-links a {
+    color: #000;
+}
+
+.h-links {
+    padding-bottom: 40px;
+}
